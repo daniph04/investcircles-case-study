@@ -16,7 +16,6 @@ The capture process does not use Daniel's personal account or any production cus
 | --- | --- |
 | `simulator-home.jpg` | Portfolio overview and primary product entry point |
 | `simulator-market.jpg` | Market and earnings context for a portfolio holding |
-| `simulator-circle.jpg` | Shared circle portfolio and group-level context |
 | `simulator-chat.jpg` | Private discussion using synthetic participants and messages |
 | `simulator-privacy.jpg` | User-controlled financial visibility |
 | `investcircles-simulator-demo.mp4` | Short end-to-end product walkthrough |
