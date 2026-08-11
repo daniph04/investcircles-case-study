@@ -9,12 +9,19 @@ InvestCircles brings portfolio tracking, transaction history, market context, an
 ## Product walkthrough
 
 <p align="center">
-  <img src="assets/simulator-home.png" alt="InvestCircles portfolio home running in iOS Simulator" width="31%">
-  <img src="assets/simulator-portfolio.png" alt="InvestCircles portfolio detail running in iOS Simulator" width="31%">
-  <img src="assets/simulator-circle.png" alt="InvestCircles private circle running in iOS Simulator" width="31%">
+  <img src="assets/simulator-home.jpg" alt="InvestCircles portfolio home running in iOS Simulator" width="31%">
+  <img src="assets/simulator-market.jpg" alt="InvestCircles market detail running in iOS Simulator" width="31%">
+  <img src="assets/simulator-circle.jpg" alt="InvestCircles private circle running in iOS Simulator" width="31%">
+</p>
+
+<p align="center">
+  <img src="assets/simulator-chat.jpg" alt="InvestCircles private circle discussion running in iOS Simulator" width="31%">
+  <img src="assets/simulator-privacy.jpg" alt="InvestCircles privacy controls running in iOS Simulator" width="31%">
 </p>
 
 **[Watch the iOS Simulator walkthrough](assets/investcircles-simulator-demo.mp4)**
+
+Captured on **11 August 2026** from the running iOS app with a dedicated synthetic account. The media is unretouched apart from the simulator's own capture encoding.
 
 ## The problem
 
