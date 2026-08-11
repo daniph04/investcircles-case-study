@@ -35,6 +35,15 @@ I originated the concept and defined the product rules, user flows, data require
 
 My work included reviewing generated changes, testing edge cases, tracing failures across the interface and data layer, deciding what met the acceptance criteria, and documenting what remained unverified. The implementation was substantially AI-assisted; this case study does not imply that every line was written manually.
 
+## What this case study demonstrates
+
+- product discovery, requirements analysis, and acceptance criteria;
+- AI-assisted implementation with human review and failure analysis;
+- financial-data normalization and portfolio-calculation edge cases;
+- privacy-aware product and data-access decisions;
+- cross-platform delivery across web and an iOS shell;
+- evidence-based communication that separates verified checks from unproven outcomes.
+
 ## Selected product decisions
 
 1. **Privacy is a data-access rule, not a visual setting.** Visibility depends on the relationship between the portfolio owner and viewer; hiding a number in the interface is not treated as sufficient protection.
